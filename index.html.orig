@@ -12,10 +12,13 @@
 		<li>Product</li>
 		<li>Contact Us</li>
 	</ul>
-<<<<<<< HEAD
-	<marquee>Charusat University</marquee>
-=======
+<marquee>Charusat University</marquee>
 	<h2>I love web development</h2>
->>>>>>> 66b6b3a0ae49f3532730d6306fdcb5c40eac879d
+<<<<<<< HEAD
+
+<p>Application 2</p>
+=======
+<p>Application 1</p>
+>>>>>>> c979caf0cdbfa7f5326d52d4ff0fefe0dde81e32
 </body>
 </html>
